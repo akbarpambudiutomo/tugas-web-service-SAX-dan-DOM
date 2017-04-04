@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manufacturing>
+<produk>
+	<nama>Indomie</nama>
+	<kode>A112</kode>
+	<rasa>Ayam Bawang</rasa>
+	<satuan>Dus</satuan>
+	<jumlah>200</jumlah>
+	<harga per="satuan">40000</harga>
+	<tglkadaluwarsa>18 Agustus 2018</tglkadaluwarsa>
+	<perusahaan Nama="PT.Indofood">
+		<alamat>jl. Soekarno-Hatta no.20 Bandung</alamat>
+		<kodewil>303</kodewil>
+		<email>indofood@asd.com</email>
+	</perusahaan>
+</produk>
+
+<produk>
+	<nama>Teh Botol</nama>
+	<kode>Z332</kode>
+	<rasa>Green Tea</rasa>
+	<satuan>Dus</satuan>
+	<jumlah>100</jumlah>
+	<harga per="satuan">35000</harga>
+	<tglkadaluwarsa>23 Februari 2019</tglkadaluwarsa>
+	<perusahaan Nama="PT.Teh Botol">
+		<alamat>jl. Jayapati no.25 Jakarta</alamat>
+		<kodewil>435</kodewil>
+		<email>cs@tehbotol.com</email>
+	</perusahaan>
+</produk>
+</manufacturing>
